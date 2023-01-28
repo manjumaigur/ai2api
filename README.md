@@ -4,8 +4,12 @@ Yet another AI model training, fine-tuning, active learning &amp; deployment too
 **Note:** Right now, what you see is a very basic implementation. The goal is to have a software that would automatically generate AI model inference API project using frameworks like Fast API/Flask/Django. Somewhat similar to what hugging face does already, but complete control to end-user on API project.
 
 ## Build
-`pip install build`
-`python -m build`
+```bash
+pip install build
+python -m build
+```
 
 ## Usage
-`ai2api --help`
+```bash
+ai2api --help
+```
